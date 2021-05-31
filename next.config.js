@@ -1,3 +1,3 @@
 module.exports = {
-  assetPrefix: "/next-github-page-test",
+  assetPrefix: "/nextjs-github-page-test",
 };
